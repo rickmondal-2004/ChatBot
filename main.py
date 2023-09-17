@@ -1,5 +1,5 @@
-### Author: Riya Nakarmi ###
-### College Project ###
+### Author: Rick Mondal ###
+### Personal Project ###
 
 import random
 import json
