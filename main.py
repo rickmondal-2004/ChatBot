@@ -1,6 +1,3 @@
-### Author: Rick Mondal ###
-### Personal Project ###
-
 import random
 import json
 import pickle
