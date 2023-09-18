@@ -96,7 +96,7 @@ function highlightAll() {
              
             }
             else{
-              messageDiv.innerHTML = `<img src="{{ url_for('static', filename='images/gpt.jpg') }}" class="bot-icon"><p>${content}</p>`
+              messageDiv.innerHTML = `<img src="{{ url_for('images/gpt.jpg') }}" class="bot-icon"><p>${content}</p>`
             }
             chatBox.appendChild(messageDiv);
             chatBox.scrollTop = chatBox.scrollHeight;
